@@ -1,0 +1,6 @@
+cluster	distance.non.pld	distance.pld
+2	0.431	0.317
+3	0.322	0.332
+5	0.321	0.266
+6	0.312	0.284
+7	NA	0.295
